@@ -1,3 +1,3 @@
 # name1
 First GIT repo
-author - mayank
+author - mayank kumar class8
